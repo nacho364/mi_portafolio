@@ -1,14 +1,20 @@
-# mi pagina personal
+# Portfolio de Nacho
 
-# descripcion
-esta pagina se trata de mi portafolio personal...
+## Descripción
+Este proyecto es una página web de tipo portfolio personal, desarrollada como parte de la materia Programación III. En ella se muestra información sobre mí, mis proyectos, habilidades y una forma de contacto.
 
+## Contenido
+- Menú de navegación con enlaces internos a las distintas secciones
+- Sección "Sobre mí" con información personal
+- Sección de proyectos con ejemplos de trabajos realizados
+- Tabla de habilidades con tecnologías aprendidas
+- Sección multimedia con imagen y video
+- Formulario de contacto
+- Elementos adicionales como article, aside y favicon
 
-# contenido
-- menu principal en donde enlazamos hacia las diferentes secciones de la pagina
-- contiene formulario de contacto
-- contiene tablas comparativas de...
-- video demostrativos de ...
+## Tecnologías utilizadas
+- HTML
+- Git y GitHub
 
-# autor
+## Autor
 Ignacio Matos
