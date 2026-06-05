@@ -5,7 +5,7 @@ body{
 
 }
 header{
-    background-color: #224093;
+    background-color:var(--color-principal);
     color: white;
     text-align: center;
     padding: 20px;
@@ -36,6 +36,10 @@ main{ border-radius: 15px;
 background:aliceblue;}
 aside{
     margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 0 30px burlywood;
 }
 :root{
     --color-principal:#224093;
@@ -74,4 +78,25 @@ img{
         width: 100%;
     }
 
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: var(--color-principal);
+    color: white;
+}
+
+th, td{
+    padding: 10px;
+    border: 1px solid gray;
+}
+input, textarea{
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border-radius: 10px;
 }
